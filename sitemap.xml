@@ -8,6 +8,20 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://shuaiwen-cui.github.io/STM_STUDY/zh/"/>
     </url>
     <url>
+        <loc>https://shuaiwen-cui.github.io/STM_STUDY/HARDWARE/hardware/</loc>
+        <lastmod>2025-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shuaiwen-cui.github.io/STM_STUDY/HARDWARE/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://shuaiwen-cui.github.io/STM_STUDY/zh/HARDWARE/hardware/"/>
+    </url>
+    <url>
+        <loc>https://shuaiwen-cui.github.io/STM_STUDY/SOFTWARE/software/</loc>
+        <lastmod>2025-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shuaiwen-cui.github.io/STM_STUDY/SOFTWARE/software/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://shuaiwen-cui.github.io/STM_STUDY/zh/SOFTWARE/software/"/>
+    </url>
+    <url>
         <loc>https://shuaiwen-cui.github.io/STM_STUDY/blog/</loc>
         <lastmod>2025-08-15</lastmod>
         <changefreq>daily</changefreq>
@@ -20,6 +34,20 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://shuaiwen-cui.github.io/STM_STUDY/zh/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://shuaiwen-cui.github.io/STM_STUDY/"/>
+    </url>
+    <url>
+        <loc>https://shuaiwen-cui.github.io/STM_STUDY/zh/HARDWARE/hardware/</loc>
+        <lastmod>2025-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://shuaiwen-cui.github.io/STM_STUDY/zh/HARDWARE/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shuaiwen-cui.github.io/STM_STUDY/HARDWARE/hardware/"/>
+    </url>
+    <url>
+        <loc>https://shuaiwen-cui.github.io/STM_STUDY/zh/SOFTWARE/software/</loc>
+        <lastmod>2025-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://shuaiwen-cui.github.io/STM_STUDY/zh/SOFTWARE/software/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shuaiwen-cui.github.io/STM_STUDY/SOFTWARE/software/"/>
     </url>
     <url>
         <loc>https://shuaiwen-cui.github.io/STM_STUDY/zh/blog/</loc>
