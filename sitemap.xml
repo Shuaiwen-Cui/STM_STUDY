@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://shuaiwen-cui.github.io/STM_STUDY/</loc>
+        <lastmod>2025-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shuaiwen-cui.github.io/STM_STUDY/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://shuaiwen-cui.github.io/STM_STUDY/zh/"/>
+    </url>
+    <url>
+        <loc>https://shuaiwen-cui.github.io/STM_STUDY/blog/</loc>
+        <lastmod>2025-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shuaiwen-cui.github.io/STM_STUDY/blog/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://shuaiwen-cui.github.io/STM_STUDY/zh/blog/"/>
+    </url>
+    <url>
+        <loc>https://shuaiwen-cui.github.io/STM_STUDY/zh/</loc>
+        <lastmod>2025-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://shuaiwen-cui.github.io/STM_STUDY/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shuaiwen-cui.github.io/STM_STUDY/"/>
+    </url>
+    <url>
+        <loc>https://shuaiwen-cui.github.io/STM_STUDY/zh/blog/</loc>
+        <lastmod>2025-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://shuaiwen-cui.github.io/STM_STUDY/zh/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shuaiwen-cui.github.io/STM_STUDY/blog/"/>
+    </url>
+</urlset>
