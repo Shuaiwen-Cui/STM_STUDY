@@ -1,9 +1,4 @@
-# STM32 学习
-这个项目致力于基于STM32学习和实践。
-
-![封面](cover.jpg)
-
-## 常用链接
+# STM32软件开发
 
 <div class="grid cards" markdown>
 
